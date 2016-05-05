@@ -1,0 +1,15 @@
+{
+  "firebase": "angular-code",
+  "public": "./node_modules",
+  "ignore": [
+    "firebase.json",
+    "**/.*"
+  ],
+  "headers": [{
+    "source" : "**/*",
+    "headers" : [{
+      "key" : "Access-Control-Allow-Origin",
+      "value" : "*"
+    }]
+  }]
+}
