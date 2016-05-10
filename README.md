@@ -12,14 +12,14 @@ Developers, who have an issue with [Material 2](http://github.com/angular/materi
 The Template loads all its dependencies from Firebase.<br/>
 We currently update all modules manually ([read more](#cooming-soon)) and deploy them to [Firebase](http://www.firebase.com).
 
-Currently used / hosted modules are:
+Currently bundled modules are:
 - `@angular`,
 - `@angular2-material`
 - `rxjs`
 - `zone.js`,
 - `reflect-metadata`
 
-So, you see - we provide all modules which are required to run a Angular 2 App.
+So, you as you can see, we provide a bundle for all modules which are required to run a Angular 2 App.
 
 ### Cooming soon
 - `Automatic Module Updating`<br/>
@@ -28,3 +28,4 @@ So, you see - we provide all modules which are required to run a Angular 2 App.
 ### Links
 - [Plunker Template](http://plnkr.co/edit/o077B6uEiiIgkC0S06dd?p=preview)
 - [Asset Host](https://angular-code.firebaseapp.com)
+- [Bundle File](https://angular-code.firebaseapp.com/bundle.js)
