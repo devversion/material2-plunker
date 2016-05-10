@@ -9,8 +9,8 @@ System.config({
     }
   },
   map: {
-    '@angular': 'https://angular-code.firebaseapp.com/@angular',
-    '@angular2-material': 'https://angular-code.firebaseapp.com/@angular2-material',
+    '@angular': 'node_modules/@angular',
+    '@angular2-material': 'node_modules/@angular2-material',
     'rxjs': 'https://angular-code.firebaseapp.com/rxjs'
   }
 });

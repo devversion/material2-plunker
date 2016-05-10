@@ -1,0 +1,30 @@
+{
+  "corePackages": [
+    "@angular/core",
+    "@angular/common",
+    "@angular/compiler",
+    "@angular/http",
+    "@angular/router",
+    "@angular/platform-browser",
+    "@angular/platform-browser-dynamic",
+    "rxjs/Rx"
+  ],
+  "materialPackages": [
+    "core",
+    "toolbar",
+    "button",
+    "card",
+    "checkbox",
+    "icon",
+    "input",
+    "list",
+    "progress-bar",
+    "progress-circle",
+    "radio",
+    "sidenav"
+  ],
+  "vendors": [
+    "zone.js",
+    "reflect-metadata"
+  ]
+}

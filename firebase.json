@@ -1,6 +1,6 @@
 {
   "firebase": "angular-code",
-  "public": "./node_modules",
+  "public": "./dist",
   "ignore": [
     "firebase.json",
     "**/.*"
