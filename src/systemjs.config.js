@@ -11,7 +11,7 @@ System.config({
   map: {
     '@angular': 'node_modules/@angular',
     '@angular2-material': 'node_modules/@angular2-material',
-    'rxjs': 'https://angular-code.firebaseapp.com/rxjs'
+    'rxjs': 'node_modules/rxjs'
   }
 });
 
