@@ -5,7 +5,7 @@ import {MdButton} from '@angular2-material/button';
 
 @Component({
   selector: 'material-app',
-  templateUrl: 'src/app.component.html',
+  templateUrl: 'app.component.html',
   directives: [MdToolbar, MdButton]
 })
 export class AppComponent {}

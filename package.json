@@ -44,5 +44,9 @@
   "bugs": {
     "url": "https://github.com/DevVersion/material2-plunker/issues"
   },
-  "homepage": "https://github.com/DevVersion/material2-plunker#readme"
+  "homepage": "https://github.com/DevVersion/material2-plunker#readme",
+  "devDependencies": {
+    "systemjs-builder": "^0.15.16",
+    "typescript": "^1.8.10"
+  }
 }
