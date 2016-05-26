@@ -7,5 +7,8 @@ config.vendors.forEach(vendor => {
 
 console.log("Copied all vendors to the distribution folder.");
 
+// Strip all comments out
+require('./strip-maps');
+
 // Load the bundler.
 require('./bundle/bundle');

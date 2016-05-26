@@ -24,7 +24,7 @@ var _defaultPackages = [
 // Angular Material 2 Packages to load.
 var _materialPackages = [
   'core', 'toolbar', 'button', 'card', 'checkbox', 'icon', 'input', 'list', 'progress-bar',
-  'progress-circle', 'radio', 'sidenav'
+  'progress-circle', 'radio', 'sidenav', 'grid-list', 'tabs', 'slide-toggle'
 ];
 
 _materialPackages.forEach(function(item) {

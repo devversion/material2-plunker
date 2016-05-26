@@ -21,7 +21,10 @@
     "progress-bar",
     "progress-circle",
     "radio",
-    "sidenav"
+    "sidenav",
+    "tabs",
+    "grid-list",
+    "slide-toggle"
   ],
   "vendors": [
     "zone.js",

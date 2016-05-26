@@ -2,11 +2,12 @@ import {Component} from '@angular/core';
 import {bootstrap} from '@angular/platform-browser-dynamic';
 import {MdToolbar} from '@angular2-material/toolbar';
 import {MdButton} from '@angular2-material/button';
+import {MdSlideToggle} from '@angular2-material/slide-toggle';
 
 @Component({
   selector: 'material-app',
   templateUrl: 'app.component.html',
-  directives: [MdToolbar, MdButton]
+  directives: [MdToolbar, MdButton, MdSlideToggle]
 })
 export class AppComponent {}
 
