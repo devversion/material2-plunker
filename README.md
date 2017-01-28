@@ -1,5 +1,6 @@
-# material2-plunker
-Standalone Template for Angular Material 2 Demos.
+# [INACTIVE] material2-plunker
+
+Use the offical template: http://plnkr.co/edit/o077B6uEiiIgkC0S06dd?p=preview
 
 ### What is it for?
 
